@@ -48,6 +48,8 @@ a {
   padding: 16px 0px;
   color: #ffffff;
   font-size: 18px;
+  font-family: "Poppins";
+  font-weight: 400;
   position: relative;
 }
 
@@ -127,6 +129,8 @@ a {
 .introducao h1 {
   margin-bottom: 32px;
   font-size: 64px;
+  font-family: "Poppins";
+  font-weight: 600;
   line-height: 1.125;
 }
 
@@ -137,6 +141,8 @@ a {
 .introducao p {
   margin-bottom: 20px;
   font-size: 24px;
+  font-family: "Roboto";
+  font-weight: 400;
   line-height: 1.5;
   color: #b2b2b2;
 }
@@ -150,6 +156,8 @@ a {
   text-transform: uppercase;
   color: #332200;
   font-size: 18px;
+  font-family: "Poppins";
+  font-weight: 600;
   line-height: 1.33;
   font-weight: bold;
 }
