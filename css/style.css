@@ -11,3 +11,5 @@
 
 /* bicicleta lista */
 @import "./bicicletas/bicicletas-lista.css";
+
+@import "./home/tecnologia.css";
